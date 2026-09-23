@@ -1,0 +1,35 @@
+span {
+  font-weight: bold;
+}
+
+.contact-info {
+  font-weight: bold;
+}
+
+h1 {
+  color: blue;
+}
+
+.color-title {
+  color: red;
+}
+
+#titulo-profesional {
+  color: green;
+}
+
+#perfil-profesional-title {
+  color: rgb(22, 87, 104);
+}
+
+#experiencia-laboral-title {
+  color: brown;
+}
+
+#educacion-title {
+  color: purple;
+}
+
+#habilidades-title {
+  color: orange;
+}
